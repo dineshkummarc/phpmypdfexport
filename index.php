@@ -12,8 +12,6 @@
 	</nav>
 	<div class="col-md-3"></div>
 	<div class="col-md-6 well">
-		<h3 class="text-primary">PHP - Convert HTML To PDF</h3>
-		<hr style="border-top:1px dotted #ccc;"/>
 		<button type="button" class="btn btn-success" data-toggle="modal" data-target="#form_modal"><span class="glyphicon glyphicon-plus"></span> Add member</button>
 		<a href="export.php" class="btn btn-primary pull-right"><span class="glyphicon glyphicon-export"></span> Export As PDF</a>
 		<br /><br />
